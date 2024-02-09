@@ -47,4 +47,4 @@ We are committed to providing our clients with high-quality software products an
 
 [linkedin]: https://linkedin.com/in/@HNHTECHSOLUTIONS-OFFICIAL
 [fiverr]: https://www.fiverr.com/shabihhaider
-[upwork]: https://www.upwork.com/agencies/1487455283992952832/
+[upwork]: https://www.upwork.com/freelancers/~0172a5b51c3fa50fed
